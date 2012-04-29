@@ -1,0 +1,30 @@
+#header
+{
+	margin-bottom: 10px;
+}
+
+#col1
+{
+	float: left;
+	width: 20%;
+	margin-left: 3%;
+}
+
+#col2
+{
+	float: left;
+	width: 48%;
+	margin-left: 3%; 
+}
+
+#col3
+{
+	float: left;
+	width: 20%;
+	margin-left: 3%;
+}
+
+#footer
+{
+	clear: both;
+}
