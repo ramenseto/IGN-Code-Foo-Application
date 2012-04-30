@@ -1,0 +1,1 @@
+I wrote the code in Linux and compiled using the gcc compiler. The output file and the source code are included.
